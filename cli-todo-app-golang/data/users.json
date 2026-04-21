@@ -1,0 +1,10 @@
+[
+  {
+    "user_id": "5b282fd2-8bcc-471c-b8ad-598ac59a636d",
+    "name": "John Doe Alexa",
+    "email": "johndoe@example.com",
+    "username": "johndoe",
+    "password": "$2a$10$Z0SVtQmvtsLQYFI3bbu4..0VEWT7kKdHoAAF9SJOyYDkTaA/g4/0G",
+    "created_at": "2026-04-15T21:04:56.4572971+07:00"
+  }
+]

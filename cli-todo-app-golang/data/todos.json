@@ -1,0 +1,31 @@
+[
+  {
+    "user_id": "5b282fd2-8bcc-471c-b8ad-598ac59a636d",
+    "todos": [
+      {
+        "id": "037f83a7-39cb-4426-9d88-01f7e127bed3",
+        "task": "Play Basketball",
+        "due_date": "2026-04-23T00:00:00Z",
+        "priority": "high",
+        "progress": "on-progress",
+        "created_at": "2026-04-20T16:19:42.5002125+07:00"
+      },
+      {
+        "id": "c3461cb8-10e7-4a9f-84e6-9941c1a8120d",
+        "task": "Marathon 5k",
+        "due_date": "2026-04-21T00:00:00Z",
+        "priority": "high",
+        "progress": "pending",
+        "created_at": "2026-04-20T20:50:41.3141912+07:00"
+      },
+      {
+        "id": "7dd27059-742e-4643-a5cc-509b22587b03",
+        "task": "Fishing with Bob",
+        "due_date": "2026-04-25T00:00:00Z",
+        "priority": "mid",
+        "progress": "pending",
+        "created_at": "2026-04-20T20:51:56.2395764+07:00"
+      }
+    ]
+  }
+]
